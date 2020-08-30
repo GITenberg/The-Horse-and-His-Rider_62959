@@ -1,0 +1,28 @@
+_repo: The-Horse-and-His-Rider_62959
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Head, Francis Bond, Sir
+    aliases:
+    - Head, F. B. (Francis Bond), Sir
+    - Head, Francis Bond, Sir, bart.
+    birthdate: 1793
+    deathdate: 1875
+    gutenberg_agent_id: '40112'
+    url: http://www.gutenberg.org/2009/agents/40112
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Bond_Head
+description: ''
+gutenberg_issued: '2020-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horsemanship'
+- !lcc 'SF'
+- GITenberg
+title: The Horse and His Rider
+url: http://www.gutenberg.org/ebooks/62959
